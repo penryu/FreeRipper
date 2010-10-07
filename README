@@ -1,0 +1,51 @@
+CAVEAT
+    The following README is included, with one exception, in it's
+    original form and text.  The only change I've made is the removal
+    of the project which "inspired" it.  Please enjoy the product of
+    arrogance that can only come with youth.
+
+NAME
+    FreeRipper - rip pages from external sites to include in user pages
+
+INSTALLATION
+    Installation is simple and straight forward and discussed at the top of
+    the FreeRipper script.
+
+DESCRIPTION
+    FreeRipper allows you to fetch and use HTML from other web sites
+    directly on your site. You simply supply the URL and the starting and
+    ending points to start fetching in minutes
+
+    Advantages of FreeRipper over similar scripts (such as [REDACTED] at
+    [REDACTED]):
+
+    experience
+        FreeRipper was written by someone who actually knows Perl.
+
+    portability
+        FreeRipper is compatible with mod_perl and 'use strict'
+
+    efficiency
+        FreeRipper doesn't go through the trouble of reading, parsing, and
+        processing POST data (that isn't there) and then never even
+        _attempt_ to use it.
+
+    efficiency (cont'd)
+        FreeRipper doesn't have numerous pointless page-wide regex
+        substitutions that would be unnecessary had the author any idea of
+        how to use regex's.
+
+    ethics =)
+        FreeRipper doesn't tell you that removal of the pathetic link back
+        to the script's home will break the script. As a matter of fact,
+        there _is_ no extra output with FreeRipper!
+
+NOTES
+    This copylefted script may be duplicated and sold without or without
+    written permission from anyone.
+
+    This software is available to do whatever you want with. Change names,
+    butcher the Perl, or turn it into a hacker script. The only condition is
+    that I'm not responsible for anything that happens to any code or system
+    after the tarball is opened.
+
